@@ -8,7 +8,7 @@
     <link href="assets/css/default.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/slick.css">
     <link rel="stylesheet" href="assets/css/aos.css">
-    <link rel="stylesheet" href="assets/css/style.css?v=3">
+    <link rel="stylesheet" href="assets/css/style.css?v=5">
     <title>$PRINT</title>
 </head>
 <body>

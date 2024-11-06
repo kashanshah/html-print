@@ -1017,7 +1017,6 @@ section.getyour-sec .getyour-sec-video {
 @media screen and (max-width: 767px) {
     section.getyour-sec {
         display: block;
-        padding-bottom: 0;
     }
     section.getyour-sec .getyour-sec-video {
         max-width: 100%;
@@ -2480,7 +2479,7 @@ body.overFlowScroll {
         padding-right: 30px !important;
     }
     section.getyour-sec {
-        padding: 40px 0;
+        padding: 40px 0 0;
 
     }
     section.the-key-start .secTitle h2 {
