@@ -8,7 +8,7 @@
     <link href="assets/css/default.min.css" rel="stylesheet">
     <link rel="stylesheet" href="assets/css/slick.css">
     <link rel="stylesheet" href="assets/css/aos.css">
-    <link rel="stylesheet" href="assets/css/style.css?v=2.0.0">
+    <link rel="stylesheet" href="assets/css/style.css?v=3">
     <title>$PRINT</title>
 </head>
 <body>
@@ -1162,7 +1162,7 @@
         </div>
 -->
     </div>
-    <video autoplay loop muted playsinline>
+    <video class="getyour-sec-video" autoplay loop muted playsinline>
         <source src="assets/images/Print_buy_Final.mp4" type="video/mp4">
     </video>
 </section>

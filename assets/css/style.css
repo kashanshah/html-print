@@ -1005,7 +1005,7 @@ section.getyour-sec {
     align-content: center;
 }
 
-section.getyour-sec video {
+section.getyour-sec .getyour-sec-video {
     position: absolute;
     top: 0;
     left: auto;
@@ -1018,9 +1018,10 @@ section.getyour-sec video {
     section.getyour-sec {
         display: block;
     }
-    section.getyour-sec video {
+    section.getyour-sec .getyour-sec-video {
         max-width: 100%;
         position: relative;
+        height: auto;
     }
 }
 
