@@ -1017,6 +1017,7 @@ section.getyour-sec .getyour-sec-video {
 @media screen and (max-width: 767px) {
     section.getyour-sec {
         display: block;
+        padding-bottom: 0;
     }
     section.getyour-sec .getyour-sec-video {
         max-width: 100%;
